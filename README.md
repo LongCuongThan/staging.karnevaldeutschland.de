@@ -1,0 +1,2 @@
+# staging.karnevaldeutschland.de
+wordpress
